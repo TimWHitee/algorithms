@@ -1,3 +1,7 @@
+## Content
++ Сортировка кучей - [тык](heapsort.py)
++ Сортировка выбором - [тык](selection_sort.py)
+
 # HSE BI Algorithms Repository
 
 Welcome to the HSE BI Algorithms Repository!
