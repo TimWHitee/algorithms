@@ -1,16 +1,39 @@
-## Content
-+ Сортировка кучей - [тык](heapsort.py)
+# TimWHitee's algorithms repo
+Здесь можно найти почти все алгоритмы и структуры данных, которые когда-либо использовались на лекциях или семинарах. 
+Если некоторого алгоритма по какой-то причине здесь нет - пишите и отправляйте pull request.
+# Содержание
+
+## Графы
++ Поиск в ширину - [тык](bfs.py)
++ Поиск в глубину - [тык](dfs.py)
++ Поиск мостов в графе - [тык](bridge_finder.py)
++ Поиск шарниров (точек сочленения) в графе - [тык](sharnir_finder.py)
++ Поиск компонент связности в графе - [тык](component_search.py)
++ Поиск циклов в неориентированном графе - [тык](cycle_finder_not_oriented.py)
++ Поиск циклов в ориентированном графе - [тык](cycle_finder_oriented.py)
+
+## Сортировки
+
++ Сортировка пузырьком - [тык](bubble_sort.py)
++ Сортировка подсчетом - [тык](counter_sort.py)
++ Куча и сортировка кучей - [тык](heapsort.py)
++ Сортировка вставками - [тык](insertion_sort.py)
++ Быстрая сортировка - [тык](qsort.py)
++ Сортировка слиянием - [тык](mergesort.py)
 + Сортировка выбором - [тык](selection_sort.py)
 
-# HSE BI Algorithms Repository
+## Абстрактные Типы Данных (АТД)
++ Дек на динамической массиве (не проверено) - [тык](deque.py)
++ Двусвязный список - [тык](doublelinked_list.py)
++ Очередь основанная на списке - [тык](list_based_queue.py)
++ Односвязный список - [тык](onelinked_list.py)
++ Очередь на динамическом массиве - [тык](queue_.py)
++ Стэк на динамическом массиве - [тык](stack.py)
++ Стэк на списке - [тык](stack_based_on_list.py)
 
-Welcome to the HSE BI Algorithms Repository!
+## Остальное
++ Левый бинарный поиск - [тык](leftbinary.py)
++ Правый бинарный поиск - [тык](rightbinary.py)
 
-This repository contains a collection of algorithms covered in lectures at the Higher School of Economics (HSE) Business Informatics program. Feel free to explore the algorithms and contribute by submitting pull requests for any new algorithms you'd like to add. Your contributions are greatly appreciated!
 
 
-## Contributing
-
-Contributions to this repository are welcome! If you have any new algorithms to add or improvements to existing ones, please submit a pull request. Make sure to follow the repository's guidelines for contribution.
-
-Thank you for your interest in the HSE BI Algorithms Repository!
